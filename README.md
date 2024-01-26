@@ -24,7 +24,7 @@ Here are some info about me:
 
 ### Skills
 
-<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <i class="devicon-github-original"></i> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
 
 
 ### Skills in development
