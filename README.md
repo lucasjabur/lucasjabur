@@ -10,18 +10,18 @@ Here are some info about me:
 - 🌱 I’m currently learning Java to have it as my primary programming language.
 - 📫 How to reach me: lucascjabur@outlook.com.
 - 😁 Some soft skills:
-      ➡️ Great problem solving skills;
-      ➡️ Teamwork experience;
-      ➡️ Passionate about learning new things;
-      ➡️ Perseverance and creativity in the face of challenges.
+➡️ Great problem solving skills;
+➡️ Teamwork experience;
+➡️ Passionate about learning new things;
+➡️ Perseverance and creativity in the face of challenges.
 
 
 ### My stats
 
 <div>
 <a href="https://github.com/lucasjabur">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?lucasjabur&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?lucasjabur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="30em" src="https://github-readme-stats.vercel.app/api/top-langs/?lucasjabur&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="30em" src="https://github-readme-stats.vercel.app/api?lucasjabur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
