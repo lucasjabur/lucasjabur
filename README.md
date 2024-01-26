@@ -17,8 +17,8 @@ Here are some info about me:
 
 <div>
 <a href="https://github.com/lucasjabur">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjabur&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasjabur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjabur&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasjabur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -29,7 +29,7 @@ Here are some info about me:
 
 ### Skills in development
 
-<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /> <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 
 
 ### Skills for the future
