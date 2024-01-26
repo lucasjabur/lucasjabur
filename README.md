@@ -6,7 +6,6 @@ Here are some info about me:
 - 🎓 I'm currently a undergradute student in Computer Sciente at Federal University of Uberlandia.
 - 🔭 I’m currently working on developing my coding skills and making my way to become a Backend Software Developer.
 - 🌱 I’m currently learning Java to have it as my primary programming language.
-- 📫 How to reach me: lucascjabur@outlook.com.
 - 😁 Some soft skills:
 ➡️ Great problem solving skills;
 ➡️ Teamwork experience;
@@ -18,8 +17,8 @@ Here are some info about me:
 
 <div>
 <a href="https://github.com/lucasjabur">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjabur&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasjabur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjabur&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasjabur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
