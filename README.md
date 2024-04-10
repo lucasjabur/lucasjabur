@@ -5,7 +5,7 @@ Here are some info about me:
 
 - 🎓 I'm currently a undergradute student in Computer Sciente at Federal University of Uberlandia.
 - 🔭 I’m currently working on developing my coding skills and making my way to become a Backend Software Developer.
-- 🌱 I’m currently learning Java to have it as my primary programming language.
+- 🌱 I’m currently learning especially C programming language and Java.
 - 😁 Some soft skills...
 - ➡️ Great problem solving skills;
 - ➡️ Teamwork experience;
