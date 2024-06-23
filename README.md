@@ -29,10 +29,9 @@ You can follow me on LinkedIn to know me better!
 
 #
 
-
 ### 📊 My stats
 
-![Lucas Jabur's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjabur&layout=compact&langs_count=7&theme=gruvbox)
+![Lucas Jabur's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjabur&show_icons=true&theme=gruvbox)
 
 #
 
