@@ -8,8 +8,8 @@ In this GitHub profile I have the mission of posting different codes, exercises,
 You can follow me on LinkedIn to know me better!
 
 <div>
-<a href="https://www.linkedin.com/in/lucas-cardoso-jabur" target="_blank"><img loading="lazy" width="50px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href = "mailto:lucascjabur02@gmail.com"><img loading="lazy" width="50px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/lucas-cardoso-jabur" target="_blank"><img loading="lazy" width="200px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "mailto:lucascjabur02@gmail.com"><img loading="lazy" width="200px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
