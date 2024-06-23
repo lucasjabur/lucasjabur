@@ -29,7 +29,6 @@ You can follow me on LinkedIn to know me better!
 
 #
 
-<br> <br/>
 
 ### 📊 My stats
 
