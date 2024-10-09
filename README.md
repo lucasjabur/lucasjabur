@@ -3,7 +3,7 @@
 **`Computer Science Undergraduate (Federal University of Uberlandia, Brazil 🇧🇷)`**
 
 I'm a student with one goal: to learn as much as I can while having fun along the way. I'm on this journey to become a good developer, and above all, a good Computer Scientist, with well-established foundations and consolidated knowledge in the field. I don't want to be just another one, I don't want to just play at being a programmer. It's a passion and it's my future.
-In this GitHub profile I have the mission of posting different codes, exercises, projects and learnings that I build over time, improving with each line of code built.
+In this GitHub profile I have the mission of posting different codes, exercises, projects and learnings that I build over time, improving with each line of code.
 
 You can follow me on LinkedIn to know me better!
 
