@@ -18,8 +18,6 @@ You can follow me on LinkedIn to know me better!
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,html,css,mysql,postgres,linux,git)](https://skillicons.dev)
 
-<br> <br/>
-
 #
 
 ### 📊 My stats
